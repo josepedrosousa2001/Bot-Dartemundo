@@ -1,2 +1,2 @@
 # Bot-Dartemundo
-É o bot da Dartemundo
+É o bot (épico) da Dartemundo
